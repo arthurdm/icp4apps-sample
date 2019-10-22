@@ -5,11 +5,10 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <parent><!--required parent POM-->
+    <parent>
         <groupId>dev.appsody</groupId>
         <artifactId>java-microprofile</artifactId>
-        <version>[0.2, 0.3)</version>
-        <relativePath/>
+        <version>0.2.11</version>
     </parent>
 
     <groupId>dev.appsody.starter.java-microprofile</groupId>
