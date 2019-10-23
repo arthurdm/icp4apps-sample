@@ -14,7 +14,7 @@ public class StarterResource {
     @GET
     @Produces(TEXT_HTML)
     public String info() {
-        return "Microservice v1-tekton-changed";
+        return "Microservice v1";
     }
 
 }
