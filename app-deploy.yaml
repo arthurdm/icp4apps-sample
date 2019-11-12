@@ -1,7 +1,7 @@
 apiVersion: appsody.dev/v1beta1
 kind: AppsodyApplication
 metadata:
-  name: nov12-demo
+  name: nov12-demo1
   labels:
     app.kubernetes.io/managed-by: appsody-arthur
 spec:
