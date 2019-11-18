@@ -1,1 +1,2 @@
+project-name: icp4apps-sample
 stack: kabanero/java-microprofile:0.2
